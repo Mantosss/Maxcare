@@ -1,5 +1,26 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+login password details -
+
+login as a admin- debdut549@gmail.com
+        password- 123456
+
+login as a doctor- doctor@gmail.com
+	 password- 123456
+
+login as a doctor2- doctor2@gmail.com
+	   password- 123456
+
+login as a doctor3- testdoctor@gmail.com
+		password- 123456
+
+
+login as a patient - testpatient@gmail.com
+		password- 123456
+
+login as a patient - jkl@gmail.com
+                password- 123456
+
 ## Getting Started
 
 First, run the development server:
